@@ -1,4 +1,4 @@
-Java Triangle Class
+#ant-pizza
 
 This application demonstrates the use of the Triangle Class.
 
