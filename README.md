@@ -22,6 +22,10 @@ selves, using a single draw(aGraphicsObject) or fill(aGraphicsObject) method.
 4. Programs that use multiple shapes in complex arrangements can more easily compose these
 and manipulate them by using instances of shape classes."
 
+![image](https://user-images.githubusercontent.com/31526815/38764203-a25f5ebc-3f5f-11e8-886e-e97ab7734e65.png)
+
+But the truth is that I wanted to be able to do justice (pun intended) to Superman's cape and logo.  Instead of using rectangles, I could then draw movable triangle objects.
+
 Design
 
 The Triangle Class is more complicated to implement than both the Rectangle and Circle Classes.  Checking to determine if a point clicked is within the shape of the triangle involves the following --  Starting at the point clicked, move right.  If you encounter one side of the triangle, then you're inside of it.  Zero or more indicates that you're outside of its area.  Sounds simple enough, right?  Please check out the code.
