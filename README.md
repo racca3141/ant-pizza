@@ -1,4 +1,5 @@
-#ant-pizza
+
+![image](https://user-images.githubusercontent.com/31526815/38764139-112a74fa-3f5e-11e8-8df3-b9aa9a0b3a95.png)
 
 This application demonstrates the use of the Triangle Class.
 
