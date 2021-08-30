@@ -30,3 +30,7 @@ Design
 
 The Triangle Class is more complicated to implement than both the Rectangle and Circle Classes.  Checking to determine if a point clicked is within the shape of the triangle involves the following --  Starting at the point clicked, move right.  If you encounter one side of the triangle, then you're inside of it.  Zero or more indicates that you're outside of its area.  Sounds simple enough, right?  Please check out the code.
 
+---
+
+This was created for College of the Sequoias' (Tulare, CA) COMP 008 - Programming Concepts.
+
